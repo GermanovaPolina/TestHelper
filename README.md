@@ -1,7 +1,7 @@
 # Германова Полина
 [telegram](https://t.me/buchurella) \
 Телефон: 8(926)616-63-13 \
-<buchurella@yandex.ru> \
+<buchurella@yandex.ru>
 
 ## О себе
 
