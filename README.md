@@ -1,7 +1,7 @@
 # Германова Полина
-[telegram](https://t.me/buchurella)
-Телефон: 8(926)616-63-13
-<buchurella@yandex.ru>
+[telegram](https://t.me/buchurella) \
+Телефон: 8(926)616-63-13 \
+<buchurella@yandex.ru> \
 
 ## О себе
 
@@ -54,8 +54,8 @@
 * Уровень английского - С2
 
 **2020**
-* Финалист НТО по профилю [Искусственный интеллект](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/iskusstvennyy-intellekt/)
-* Победитель [Открытой олимпиады школьников (информатика)](https://olymp.itmo.ru/p/inf/3606)
+* Финалистка НТО по профилю [Искусственный интеллект](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/iskusstvennyy-intellekt/)
+* Победительница [Открытой олимпиады школьников (информатика)](https://olymp.itmo.ru/p/inf/3606)
 
 **2022**
 * Участница [ICPC Северозападного четвертьфинала](https://neerc.ifmo.ru/subregions/northern.html)
